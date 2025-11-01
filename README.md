@@ -18,7 +18,7 @@ It automatically moves temporary system files to the Recycle Bin instead of dele
 
 ## ⚙️ How to Use
 
-1. [Download the latest release](https://github.com/YourUsername/CleanTempFiles/releases/latest)
+1. [Download the latest release](https://github.com/Hatim-Fox/TTP-Cleaner/releases)
 2. Run **`CleanTempFiles.exe`** as **Administrator**
 3. Wait until the console finishes showing all files transferred to the Recycle Bin
 
