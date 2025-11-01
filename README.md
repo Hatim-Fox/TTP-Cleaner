@@ -1,9 +1,5 @@
 # 🧹 Windows Temp Cleaner
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YourUsername/CleanTempFiles?color=blue)
-![GitHub downloads](https://img.shields.io/github/downloads/YourUsername/CleanTempFiles/total?color=green)
-![License](https://img.shields.io/github/license/YourUsername/CleanTempFiles?color=yellow)
-
 A simple and safe Windows cleaner written in **Python**, compiled into a standalone **.exe** file.  
 It automatically moves temporary system files to the Recycle Bin instead of deleting them permanently.
 
